@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/github-banner-worktime-auto-update-plusplus.png" alt="Worktime Auto Update++" width="100%">
+  <img src="github-banner-worktime-auto-update-plusplus.png" alt="Worktime Auto Update++" width="100%">
 </p>
 
 
@@ -96,26 +96,9 @@ Neue Regeln hinzufügen oder löschen per Klick.
  "2025-12-31": "Silvester"
 }
 }
+```
+
 💡 Hinweise
 Komplett offlinefähig
-
-Keine externen API-Aufrufe
-
-Kompatibel mit Obsidian ≥ 1.4.0
-
-Funktioniert auf Windows, macOS und Linux
-
-🧑‍💻 Autor & Lizenz
-Autor: Sven Jakob
-Lizenz: MIT License
-Version: 1.2.9
-Repository: https://github.com/chaot2000/worktime-auto-update-plusplus
-
-📦 Assets zum Release anhängen
- worktime-auto-update-plusplus_v1.2.9.zip
-
- manifest.json
-
- styles.css
-
- main.js
+- Keine externen API-Aufrufe
+- Kompatibel mit Obsidian ≥ 1.4.0

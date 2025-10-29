@@ -1,0 +1,18 @@
+{
+  "holidayPath": "meta/holidays.json",
+  "bundesland": "HE",
+  "pauseRules": [
+    {
+      "hours": 6,
+      "pause": 30
+    },
+    {
+      "hours": 9,
+      "pause": 45
+    },
+    {
+      "hours": 10,
+      "pause": 60
+    }
+  ]
+}

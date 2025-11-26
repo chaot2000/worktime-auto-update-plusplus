@@ -1,10 +1,10 @@
 {
   "id": "worktime-auto-update-plusplus",
   "name": "Worktime Auto Update++",
-  "version": "1.2.7",
+  "version": "1.3.0",
   "minAppVersion": "1.4.0",
   "description": "Arbeitszeiterfassung mit Bundesland-Feiertagen, konfigurierbaren Pausen und Live-Statusanzeige.",
   "author": "Sven Jakob",
-  "authorUrl": "https://family-jakob.net",
-  "isDesktopOnly": true
+  "authorUrl": "https://github.com/chaot2000",
+  "isDesktopOnly": false
 }
